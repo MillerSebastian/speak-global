@@ -1,0 +1,1 @@
+{"root":["./src/firebase.ts","./src/main.ts","./src/vite-env.d.ts","./src/types/index.ts","./src/App.vue","./src/components/AppFooter.vue","./src/components/ChatHeader.vue","./src/components/ChatMessages.vue","./src/components/ChatTabs.vue","./src/components/LoginScreen.vue","./src/components/MessageBubble.vue","./src/components/MessageInput.vue"],"version":"5.9.3"}
