@@ -6,7 +6,7 @@
         <p class="text-lg">{{ emptyMessage }}</p>
       </div>
 
-      <TransitionGroup name="message" tag="div">
+      <TransitionGroup name="message" tag="div" class="flex flex-wrap gap-4 items-start">
         <MessageBubble
           v-for="msg in messages"
           :key="msg.id"
